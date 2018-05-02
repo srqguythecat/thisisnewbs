@@ -1,1 +1,2 @@
 Test creating new file.
+Test: edited newly created file and commit changes.
